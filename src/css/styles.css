@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("../font/Poppins-Regular.ttf");
+}
+
+nav {
+  background-color: #71e07c;
+}
+
+body {
+  font-family: "Poppins";
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #71e07c;
+}
+
+.text-title {
+  font-size: 30px;
+  width: 80%;
+  color: #f3f4f5;
+}
+
+.text-subtitle {
+  font-size: 16px;
+  width: 85%;
+  color: #f3f4f5;
+}
+
+.motto {
+  font-size: 24px;
+  color: #f3f4f5;
+}
+
+#about {
+  background-color: #f3f4f5;
+}
+
+#galery {
+  background-color: #71e07c;
+}
+
+#contact {
+  background-color: #f3f4f5;
+}
+
+footer {
+  background-color: #71e07c;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.text-galery {
+  width: 80%;
+}
+
+.btn {
+  background-color: #f3f4f5;
+}
